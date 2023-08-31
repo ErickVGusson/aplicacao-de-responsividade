@@ -15,7 +15,8 @@ html {
     --nav: #399B53;
 }
 
-.title {
+#title {
+    font-size:xx-large;
     color: var(--title);
 }
 
